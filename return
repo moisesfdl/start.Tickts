@@ -1,0 +1,32 @@
+{
+   :active: :start; [
+       :link :host(InteractiveBrokers.com) ;
+       host:[ SSL=ndc1.ibllc.com:4000,true,20191201,true;] 
+         action ticks-after: " tikcs.svc " ;{
+           src: format(::-ms-ticks-after.svc );[
+             -ms-touch-action: front: margin-top: ;;;{
+                 abbr :active promotional" {
+                         details: :active ticks.true ;[
+                             :ticks-transition;
+
+                         ] 
+                     }
+                 ]
+             ]
+             }
+           ]
+       }
+    
+]
+[
+    cite: input.tikcs ;[
+        mark: ticks-return ;
+        use:{$ transition: margin: ;;}[
+            :out-of-range:;[
+                :read-only: return "doc.fiscal=cpf("275.551.158-32")";
+            ]
+        ]
+        
+    ]
+]
+}
