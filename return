@@ -1,11 +1,12 @@
+
 {
-   :active: :start; [
+     class active: start; {
        :link :host(InteractiveBrokers.com) ;
        host:[ SSL=ndc1.ibllc.com:4000,true,20191201,true;] 
          action tickers-after: " tickers.svc " ;{
            src: format(::-ms-tickers-after.svc );[
              -ms-touch-action: front: margin-top: ;;;{
-                 abbr :active promotional" {
+                   action : active promotional" {
                          details: :active tickers.true ;[
                              :tickers-transition;
                          ]               
@@ -15,16 +16,16 @@
                  ]
              
              }
-           ]
-[
+   }
+{
     cite: input.tickers ;[
         mark: tickers-return ;
         use:{$ transition: margin: ;;}[
-            :out-of-range:;[
-                :read-only: return "doc.fiscal=cpf("275.551.158-32")";
+              action.only : cont.bank [
+                :read-only: return "";
             ]
         ]
         
     ]
-]
+}
 }
